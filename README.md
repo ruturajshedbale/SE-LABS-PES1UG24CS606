@@ -9,6 +9,7 @@ Actors: Group Traveler, Trip Admin
 ## Labs
 
 - [Lab 01 requirements](./Lab01/Requirements/Requirements_Table.md)
+- [Lab 02 Agile backlog and sprint simulation](./Lab02/README.md)
 - [Lab 03 component modelling and architecture selection](./Lab03/README.md)
 - [Lab 04 vibe coding](./Lab04/code/README.md)
 - [Lab 05 static code analysis](./Lab05/README.md)
