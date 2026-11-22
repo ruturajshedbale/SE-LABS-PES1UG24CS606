@@ -1,0 +1,9 @@
+Rent Swift: 4500
+Rent Innova: 9000
+Lookup injection: []
+Extra km charge: 600
+Promo price: 4050.0
+Plate valid? True
+Admin login accepted: False
+Available: ['KA01AB1234']
+Receipt saved to: C:\Users\mmbas\AppData\Local\Temp\tmpbig74vq4.txt
